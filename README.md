@@ -29,7 +29,7 @@
     <td>
       <img 
         alt="Most Used Languages" 
-        height="180" 
+        height="181" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasena-a&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
     </td>
