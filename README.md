@@ -10,6 +10,7 @@
   <a href="https://react.dev/" target="_blank"><img align="center" alt="cami-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
   <a href="https://html.spec.whatwg.org/multipage/"><img align="center" alt="cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="cami-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
+   <a href="https://pugjs.org/api/getting-started.html"><img align="center" alt="cami-PUG" height="30" width="40" src="https://pugjs.org/images/favicon-32x32.png"></a>
   <a href="https://tailwindcss.com"><img align="center" alt="cami-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></a>
   <img align="center" alt="cami-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="cami-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
