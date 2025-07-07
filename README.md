@@ -7,6 +7,7 @@
 <div style="display: inline_block"><br>
   <a href="https://262.ecma-international.org/14.0/" target="_blank"><img align="center" alt="cami-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="cami-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
+<a href="https://nodejs.org/docs/latest/api/" target="_blank"><img align="center" alt="cami-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://react.dev/" target="_blank"><img align="center" alt="cami-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
   <a href="https://html.spec.whatwg.org/multipage/"><img align="center" alt="cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="cami-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
@@ -15,6 +16,8 @@
   <a href="https://docs.python.org/3/"><img align="center" alt="cami-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="center" alt="cami-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></a>
 </div>
+
+### 🤖 Ferramentas
 
 ### 📊 Estatísticas
 
