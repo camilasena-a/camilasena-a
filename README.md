@@ -1,4 +1,4 @@
-## Olá, mundo! Eu sou a Camila! 👩🏻‍💻
+## Olá mundo, eu sou a Camila! 👩🏻‍💻
 
 <!-- **`Desenvolvedora FullStack`** -->
 
