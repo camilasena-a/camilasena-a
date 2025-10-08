@@ -23,6 +23,7 @@
 <a href="https://docs.npmjs.com/"><img align="center" alt="cami-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"></a>
 <a href="https://code.visualstudio.com/docs"><img align="center" alt="cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>
 <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"><img align="center" alt="cami-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"></a>
+<a href="https://www.mongodb.com/pt-br/docs/"><img align="center" alt="cami-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"></a>
 
 ### 📊 Estatísticas
 
