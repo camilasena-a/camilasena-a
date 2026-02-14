@@ -2,7 +2,7 @@
 
 <!-- **`Desenvolvedora FullStack`** -->
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens - Tecnologias
 
 <div style="display: inline_block"><br>
   <a href="https://html.spec.whatwg.org/multipage/"><img align="center" alt="cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
